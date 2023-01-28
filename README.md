@@ -22,3 +22,7 @@ I am Konstantin Oreshkin, the beginner developer on python
 ### Certificates and diplomas of Netology:
 
 * Python. https://github.com/Konstantin778/python_certificate.git
+
+* email: oreshkin007@mail.ru
+* Telegram +381 (64) 574-94-96
+* LinkedIn: [profile link](https://www.linkedin.com/in/константин-орешкин-b29378261/)
