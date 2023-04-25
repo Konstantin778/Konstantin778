@@ -1,6 +1,6 @@
 ### Здравствуйте!
 
-Я Константин Орешкин, начинающий разработчик на python
+Я Константин Орешкин, разработчик на python
 
 ### Вот, что я умею:
 
@@ -13,7 +13,7 @@
 
 ### Hello!
 
-I am Konstantin Oreshkin, the beginner developer on python
+I am Konstantin Oreshkin, a developer on python
 
 ### Here what I know:
 
