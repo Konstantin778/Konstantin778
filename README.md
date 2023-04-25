@@ -5,6 +5,7 @@
 ### Вот, что я умею:
 
 * Python. [Репозиторий с дипломной работой](https://github.com/Konstantin778/vkinder_bot.git)
+* Django. [Текущие работы/самостоятельное обучение](https://github.com/Konstantin778/django_homework.git)
 
 ### Сертификаты Нетологии:
 
@@ -18,6 +19,7 @@ I am Konstantin Oreshkin, a developer on python
 ### Here what I know:
 
 * Python. [Repository with the diploma work](https://github.com/Konstantin778/vkinder_bot.git)
+* * Django. [Current works/self education](https://github.com/Konstantin778/django_homework.git)
 
 ### Certificates and diplomas of Netology:
 
