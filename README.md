@@ -6,6 +6,7 @@
 
 * Python. [Репозиторий с дипломной работой](https://github.com/Konstantin778/vkinder_bot.git)
 * Django. [Текущие работы/самостоятельное обучение](https://github.com/Konstantin778/django_homework.git)
+* Pyside6. [Калькулятор](https://github.com/Konstantin778/qt_calculator.git)
 
 ### Сертификаты Нетологии:
 
@@ -19,7 +20,8 @@ I am Konstantin Oreshkin, a developer on python
 ### Here what I know:
 
 * Python. [Repository with the diploma work](https://github.com/Konstantin778/vkinder_bot.git)
-* * Django. [Current works/self education](https://github.com/Konstantin778/django_homework.git)
+* Django. [Current works/self education](https://github.com/Konstantin778/django_homework.git)
+* Pyside6. [Calculator](https://github.com/Konstantin778/qt_calculator.git)
 
 ### Certificates and diplomas of Netology:
 
@@ -28,4 +30,4 @@ I am Konstantin Oreshkin, a developer on python
 #### Contacts
 * email: oreshkin007@mail.ru
 * Telegram +381 (64) 574-94-96
-* LinkedIn: [profile link](https://www.linkedin.com/in/константин-орешкин-b29378261/)
+* LinkedIn: [profile link](https://www.linkedin.com/in/koss778/)
